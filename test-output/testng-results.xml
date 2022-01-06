@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-04T23:18:14 EST" name="OpenCart Test Suite" finished-at="2022-01-04T23:18:21 EST" duration-ms="7683">
+    <groups>
+    </groups>
+    <test started-at="2022-01-04T23:18:14 EST" name="Chrome Tests" finished-at="2022-01-04T23:18:21 EST" duration-ms="7683">
+      <class name="testCases.TC_002_Login">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.TC_002_Login@45099dd3]" started-at="2022-01-04T23:18:14 EST" name="setup" finished-at="2022-01-04T23:18:17 EST" duration-ms="3166" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test_Login()[pri:0, instance:testCases.TC_002_Login@45099dd3]" started-at="2022-01-04T23:18:17 EST" name="test_Login" finished-at="2022-01-04T23:18:21 EST" duration-ms="4013" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Login -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_002_Login@45099dd3]" started-at="2022-01-04T23:18:21 EST" name="tearDown" finished-at="2022-01-04T23:18:21 EST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_002_Login -->
+    </test> <!-- Chrome Tests -->
+  </suite> <!-- OpenCart Test Suite -->
+</testng-results>
