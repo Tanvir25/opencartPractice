@@ -369,3 +369,17 @@
 00:13:28.707 [main] INFO  testCases.TC_002_Login - Password Provided
 00:13:29.530 [main] INFO  testCases.TC_002_Login - Clicked on Login
 00:13:29.588 [main] INFO  testCases.TC_002_Login - Login Success
+22:20:20.228 [main] INFO  testCases.TC_002_Login - Launched CHROME Browser
+22:20:20.282 [main] INFO  testCases.TC_002_Login - Starting TC_002_Login
+22:20:22.076 [main] INFO  testCases.TC_002_Login - opening application..
+22:20:23.212 [main] INFO  testCases.TC_002_Login - Email Provided
+22:20:23.286 [main] INFO  testCases.TC_002_Login - Password Provided
+22:20:24.449 [main] INFO  testCases.TC_002_Login - Clicked on Login
+22:20:24.632 [main] INFO  testCases.TC_002_Login - Login Success
+22:20:50.118 [main] INFO  testCases.TC_002_Login - Launched CHROME Browser
+22:20:50.175 [main] INFO  testCases.TC_002_Login - Starting TC_002_Login
+22:20:52.795 [main] INFO  testCases.TC_002_Login - opening application..
+22:20:53.662 [main] INFO  testCases.TC_002_Login - Email Provided
+22:20:53.737 [main] INFO  testCases.TC_002_Login - Password Provided
+22:20:54.530 [main] INFO  testCases.TC_002_Login - Clicked on Login
+22:20:54.585 [main] INFO  testCases.TC_002_Login - Login Success
